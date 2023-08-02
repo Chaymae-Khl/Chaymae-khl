@@ -1,5 +1,5 @@
 Hi, I'm Khalil Chaymae 👋
-
+<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 ◽ Collaborative Opportunities:
 I'm always excited to collaborate on interesting projects related to web development and mobile application. 
 If you have an exciting project or an idea you'd like to discuss, feel free to reach out to me.
@@ -9,7 +9,11 @@ If you have an exciting project or an idea you'd like to discuss, feel free to r
 
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chaymae-khalil-b6aa31181/)
 
-##### Languages I use
+
+
+
+
+##### - Languages I use
 
 ![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c)
 ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B)
@@ -21,14 +25,14 @@ If you have an exciting project or an idea you'd like to discuss, feel free to r
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql)
 ![NoSQL](https://img.shields.io/badge/-NoSQL-02569B?style=flat&logo=nosql-database&logoColor=white)
 
-##### SGBD I use
+##### - SGBD I use
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
 ![Oracle Database](https://img.shields.io/badge/-Oracle%20Database-F80000?style=flat&logo=oracle&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 
 
-##### Some of the technologies I have worked with
+##### - Some of the technologies I have worked with
 
 ![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&logoColor=181717)
@@ -42,4 +46,7 @@ If you have an exciting project or an idea you'd like to discuss, feel free to r
 ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
-
+##### - Tools
+![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat&logo=intellij-idea&logoColor=white)
+![NetBeans](https://img.shields.io/badge/-NetBeans-1B6AC6?style=flat&logo=apache-netbeans-ide&logoColor=white)
