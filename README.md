@@ -1,5 +1,7 @@
-Hi, I'm Khalil Chaymae 👋
+
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
+Hi, I'm Khalil Chaymae 👋
+
 ◽ Collaborative Opportunities:
 I'm always excited to collaborate on interesting projects related to web development and mobile application. 
 If you have an exciting project or an idea you'd like to discuss, feel free to reach out to me.
